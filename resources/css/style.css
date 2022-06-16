@@ -23,6 +23,7 @@
 
 body {
     background-color: hsl(212, 45%, 89%);
+    font-family: Outfit, sans-serif;
 }
 
 #main-container {
@@ -48,7 +49,6 @@ body {
 h1,
 h2 {
     text-align: center;
-    font-family: Outfit, sans-serif;
     margin: 5% 10%;
     letter-spacing: 0.25px;
 }
