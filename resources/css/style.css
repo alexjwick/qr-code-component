@@ -38,6 +38,7 @@ body {
     margin: auto;
     border-radius: 20px;
     box-shadow: 0px 25px 25px hsla(220, 15%, 55%, 15%);
+    z-index: 10;
 }
 
 #qr-code {
@@ -65,9 +66,9 @@ h2 {
     color: hsl(220, 15%, 55%);
 }
 
-#attribution {
+footer {
     text-align: center;
     width: 100%;
-    position: absolute;
+    position: fixed;
     bottom: 5px;
 }
