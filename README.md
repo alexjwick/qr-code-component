@@ -23,11 +23,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenshot.png)
 
-### Links
-
-- Solution URL: *WIP*
-- Live Site URL: *WIP*
-
 ## My process
 
 ### Built with
